@@ -1,6 +1,9 @@
 # demo_provider
 
-A new Flutter project.
+Simple esquema para funcionamiento del provider.
+
+A modo demostrativo, no aconsejo que se use tal como esta para un proyecto mayor, ya que le faltan muchas más configuraciones para que puedas usarlo sin inconvenientes.
+
 
 ## Getting Started
 
